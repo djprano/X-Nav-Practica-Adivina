@@ -1,0 +1,68 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.717778, 40.420037]},
+        "properties": {"name": "Templo de Debod"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.589867, 37.176817]},
+        "properties": {"name": "Alhambra de Granada"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.174356, 41.40363]},
+        "properties": {"name": "La sagrada familia"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.648252,39.567383]},
+        "properties": {"name": "Catedral de Mallorca"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -5.992614,37.386178]},
+        "properties": {"name": "La Giralda"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -4.132538,40.952572]},
+        "properties": {"name": "Alcazar de Segovia"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -8.544641,42.880596]},
+        "properties": {"name": "Catedral de Santiago de Compostela"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -5.566671,42.599703]},
+        "properties": {"name": "Catedral de León"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.714312,40.417955]},
+        "properties": {"name": "Palacio Real de Madrid"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -4.779387,37.878906]},
+        "properties": {"name": "Mezquita de Cordoba"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -0.35049,39.454875]},
+        "properties": {"name": "Ciudad de las Artes y las Ciencias de Valencia"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -4.117791,40.947991]},
+        "properties": {"name": "Acueducto de Segovia"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -6.338504,38.915203]},
+        "properties": {"name": "Teatro Romano de Mérida"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -2.128383,40.077795]},
+        "properties": {"name": "Casas Colgadas de Cuenca"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -4.122347,43.377452]},
+        "properties": {"name": "Cuevas de Altamira"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -7.559201,43.008833]},
+        "properties": {"name": "Muralla romana de Lugo"}
+        }     
+       ]
+     }

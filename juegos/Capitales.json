@@ -1,0 +1,68 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.688555, 40.420037]},
+        "properties": {"name": "Madrid"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.346888, 48.860158]},
+        "properties": {"name": "Paris"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 13.401791, 52.515273]},
+        "properties": {"name": "Berlín"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 4.350671, 50.855950]},
+        "properties": {"name": "Bruselas"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 24.942870, 60.172758]},
+        "properties": {"name": "Helsinki"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 12.454003, 41.903174]},
+        "properties": {"name": "Ciudad del Vaticano"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 23.729928, 37.980352]},
+        "properties": {"name": "Atenas"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -6.266801, 53.343796]},
+        "properties": {"name": "Dublín"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 12.494113, 41.895506]},
+        "properties": {"name": "Roma"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 4.896898, 52.373353]},
+        "properties": {"name": "Amsterdam"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 7.419609, 43.736695]},
+        "properties": {"name": "Mónaco"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 10.761771, 59.918472]},
+        "properties": {"name": "Oslo"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 21.018622, 52.240297]},
+        "properties": {"name": "Varsovia"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -0.129064, 51.501935]},
+        "properties": {"name": "Londres"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 37.643481, 55.738583]},
+        "properties": {"name": "Moscú"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 18.058270, 59.335423]},
+        "properties": {"name": "Stocolmo"}
+        }     
+       ]
+     }
