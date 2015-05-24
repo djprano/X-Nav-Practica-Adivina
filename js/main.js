@@ -206,9 +206,9 @@ function comenzarJuego(game){
 						i=0;
 					}
 				}			
-				ctx.font = "80px Arial";
-				ctx.clearRect(300,0,200,200);
-				ctx.fillText(--t1,300,100);
+				ctx.font = "60px Arial";
+				ctx.clearRect(250,0,200,200);
+				ctx.fillText(--t1,250,100);
 			},1000/nivel);
 
 	    });
