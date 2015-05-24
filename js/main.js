@@ -317,6 +317,7 @@ $(document).ready(function(){
 		if($(".juegos").hide()==false){
 			$(".juegos").toggle(1000);
 		}
+		$('.navbar-collapse').collapse('hide');
 	});
 
 	//listener juego nuevo
@@ -331,10 +332,12 @@ $(document).ready(function(){
 		if($(".dificultad").hide()==false){
 			$(".dificultad").toggle(1000);
 		}
+		$('.navbar-collapse').collapse('hide');
 	});
 
 	//listener abortar un juego
 	$("#abort").click(function(){
 		pararJuegoEnCurso();
+		$('.navbar-collapse').collapse('hide');
 	});
 });
