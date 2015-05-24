@@ -135,7 +135,7 @@ function comenzarJuego(game){
 
 	switch(game.name) {
 		case "Capitales":
-			map.setView([58, 30], 3);
+			map.setView([58, 30], 4);
 			break;
 		case "Monumentos":
 			map.setView([39.317, -5], 5);
