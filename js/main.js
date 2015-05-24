@@ -138,7 +138,7 @@ function comenzarJuego(game){
 			map.setView([58, 30], 3);
 			break;
 		case "Monumentos":
-			map.setView([39.317, -5], 5);
+			map.setView([39.317, -6], 5);
 			break;
 		case "Playas":
 			map.setView([39.317, -4.493], 4);
