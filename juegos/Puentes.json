@@ -2,7 +2,7 @@
     "features": [
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -73.954224,40.756732]},
-        "properties": {"Puente de Brooklyn"}
+        "properties": {"name":"Puente de Brooklyn"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -9.008365,38.773469]},
