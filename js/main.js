@@ -24,7 +24,6 @@ var canvaslock=0;
 $( "#juegosDisponibles" ).change(function() {
 	indexJuegoSeleccionado=$("#juegosDisponibles option:selected").index();
 	historyIndexJump=indexJuegoSeleccionado-indexJuegoAnterior;
-	console.log(historyIndexJump);
 });
 
 
@@ -169,8 +168,6 @@ function comenzarJuego(game){
 		var lon = GameJson.features[nrand].geometry.coordinates[0];
 		var name = GameJson.features[nrand].properties.name;
 		sitio={name:name,lat:lat,lon:lon};
-		console.log(name+" lat:"+lat+" lon:"+lon);////////////////////////////////////quitar esto que solo era para depurar//////////////////////////////
-
 
 
 	    //Cargamos el Json de flickr
