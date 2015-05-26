@@ -17,6 +17,7 @@ var juegosLista=[];
 var indexJuegoSeleccionado=-1;
 var indexJuegoAnterior;
 var historyIndexJump;
+var canvaslock=0;
 
 
 //Event listener para el Select
@@ -133,6 +134,9 @@ function getGameJson (game){
 
 function comenzarJuego(game){
 
+	//liberamos el canvas
+	canvaslock=0;
+
 	switch(game.name) {
 		case "Capitales":
 			map.setView([58, 30], 2);
@@ -184,7 +188,10 @@ function comenzarJuego(game){
 
 			var img = new Image;
 			img.onload = function(){
-	  			ctx.drawImage(img,0,0); // Or at whatever offset you like
+				if (canvaslock==0){
+					ctx.drawImage(img,0,0); // Or at whatever offset you like
+				}
+
 			};
 			i=0;
 			t=5;
@@ -262,6 +269,8 @@ function onMapClick(e) {
 	pushElemento(indexJuegoSeleccionado,game.name+" "+hora+":"+minuto+":"+segundo+" puntos: "+game.puntuacion);
 	juegosDisponibles();
 
+	//reservamos el canvas
+	canvaslock=1;
  	//timer para la siguiente adivinanza
  	i=0;
 	t1=10;
