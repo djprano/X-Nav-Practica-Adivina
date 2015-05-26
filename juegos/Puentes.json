@@ -2,7 +2,7 @@
     "features": [
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -73.954224,40.756732]},
-        "properties": {"name":"Bridge de Brooklyn"}
+        "properties": {"name":"Bridge Brooklyn"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -9.008365,38.773469]},
@@ -10,15 +10,15 @@
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 2.174356, 41.40363]},
-        "properties": {"name": "Bridge de Brooklyn"}
+        "properties": {"name": "Bridge Brooklyn"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.701238,52.230793]},
-        "properties": {"name": "Bridge de Magdeburg Water"}
+        "properties": {"name": "Bridge Magdeburg Water"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -5.992614,37.386178]},
-        "properties": {"name": "Bridge de San Diego Coronado"}
+        "properties": {"name": "Bridge San Diego Coronado"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -117.156009,32.687249]},
@@ -26,7 +26,7 @@
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 3.022839,44.077454]},
-        "properties": {"name": "Bridge de Millau"}
+        "properties": {"name": "Bridge Millau"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -0.121964,51.500864]},
@@ -34,15 +34,15 @@
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 4.487123,51.909004]},
-        "properties": {"name": "Bridge de Erasmusbrug"}
+        "properties": {"name": "Bridge Erasmusbrug"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -1.599178,54.969767]},
-        "properties": {"name": "Bridge de Gateshead Millenium"}
+        "properties": {"name": "Bridge Gateshead Millenium"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 151.210787,-33.852306]},
-        "properties": {"name": "Bridge de Sydney Harbour"}
+        "properties": {"name": "Bridge Sydney Harbour"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -122.478255,37.819929]},
@@ -54,11 +54,11 @@
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -73.990774,40.707496]},
-        "properties": {"name": "Bridge de Manhattan"}
+        "properties": {"name": "Bridge Manhattan"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 29.034033,41.045764]},
-        "properties": {"name": "Bridge del Bósforo"}
+        "properties": {"name": "Bridge Bósforo"}
         },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 12.335898,45.437984]},
