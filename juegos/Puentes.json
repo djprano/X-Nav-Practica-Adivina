@@ -1,0 +1,68 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -73.954224,40.756732]},
+        "properties": {"Puente de Brooklyn"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -9.008365,38.773469]},
+        "properties": {"name": "Puente Vasco da Gama"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.174356, 41.40363]},
+        "properties": {"name": "Puente de Brooklyn"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.701238,52.230793]},
+        "properties": {"name": "Puente de Magdeburg Water"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -5.992614,37.386178]},
+        "properties": {"name": "Puente de San Diego Coronado"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -117.156009,32.687249]},
+        "properties": {"name": "Puente San Diego Coronado"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 3.022839,44.077454]},
+        "properties": {"name": "Puente de Millau"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -0.121964,51.500864]},
+        "properties": {"name": "Puente Westminster"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 4.487123,51.909004]},
+        "properties": {"name": "Puente de Erasmusbrug"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.599178,54.969767]},
+        "properties": {"name": "Puente de Gateshead Millenium"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 151.210787,-33.852306]},
+        "properties": {"name": "Puente de Sydney Harbour"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -122.478255,37.819929]},
+        "properties": {"name": "Puente Golden Gate"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -0.075356,51.505456]},
+        "properties": {"name": "Puente Tower"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -73.990774,40.707496]},
+        "properties": {"name": "Puente de Manhattan"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 29.034033,41.045764]},
+        "properties": {"name": "Puente del Bósforo"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 12.335898,45.437984]},
+        "properties": {"name": "Puente Rialto"}
+        }     
+       ]
+     }
