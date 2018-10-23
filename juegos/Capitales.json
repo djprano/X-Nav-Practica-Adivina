@@ -1,9 +1,6 @@
 { "type": "FeatureCollection",
     "features": [
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ -3.688555, 40.420037]},
-        "properties": {"name": "Madrid"}
-        },
+     
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 2.346888, 48.860158]},
         "properties": {"name": "Paris"}
